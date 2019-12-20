@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h

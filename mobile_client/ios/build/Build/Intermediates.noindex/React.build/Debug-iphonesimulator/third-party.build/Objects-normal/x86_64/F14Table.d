@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Users/jsididris/Projects/DEV_area_github/mobile_client/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h

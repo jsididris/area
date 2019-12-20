@@ -1,0 +1,10 @@
+{
+    "name": "Area",
+    "version": "1.0.0",
+    "description": "This is the apidoc for the AREA project, it details all the routes that we are using in our backend",
+    "title": "AREA - Apidoc",
+    "url" : "",
+    "template" : {
+      "withCompare" : false
+    }
+  }

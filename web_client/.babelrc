@@ -1,0 +1,6 @@
+{
+  "presets":["@babel/env", "@babel/react", "mobx"],
+  "plugins": [
+    ["import", {"libraryName": "antd", "style": true}]
+  ]
+}

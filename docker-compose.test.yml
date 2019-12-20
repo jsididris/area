@@ -1,0 +1,27 @@
+version: '2'
+services:
+  server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile.test
+    ports:
+    - "8080:8080"
+    depends_on:
+    - database
+    - redis
+  #web_client:
+  #  build: ./web_client
+  #  ports:
+  #  - "80:80"
+  #  depends_on:
+  #  - server
+  database:
+    image: postgres:9.6.8-alpine
+    ports:
+    - "5432:5432"
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: 123soleil
+      POSTGRES_DB: area
+  redis:
+    image: redis:alpine
