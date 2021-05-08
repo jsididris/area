@@ -34,7 +34,7 @@
       "ping": "^0.2.2",
       "redis": "^2.8.0",
       "reflect-metadata": "^0.1.10",
-      "typeorm": "0.2.7",
+      "typeorm": "0.2.25",
       "uuid": "^3.3.2"
    },
    "author": "Jérémy Sid Idris",
